@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi
+This is Hamed. You can find a part of my projects here. I have another account at GitLab.com which consists of a number of projects of mine. I have the same id name at GitLab.
+
+One of my top projects is the [Compiler one](https://github.com/hamedwaezi01/compiler). It is incomplete but I managed tried to write it maintainable.
+
+Furthermore, the Classic Ai project, which is the [N Puzzle problem](https://github.com/hamedwaezi01/ai), has several implementations of some heuristic functions and algorithms, good for obtaining an overview of the solution.
+
+My [Computer Vision course](https://github.com/hamedwaezi01/vision-basic) had a series of problems. I implemented functions for Furier, filter convolution, wavelet and a couple of other algorithms.
+
 
 <!--
 **hamedwaezi01/hamedwaezi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
